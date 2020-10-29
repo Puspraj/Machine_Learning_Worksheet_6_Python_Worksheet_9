@@ -1,0 +1,28 @@
+Question Number, Correct Option, Answer
+
+1> b, No
+
+2> a, Red
+
+3> d, None of the above
+
+4> b, It’s the classifier for which the margin length or the distance between the closest
+      data-point on either side of the classifier and the classifier is maximized.
+
+5> c, cannot be determined from the given data
+
+6> a,  They are less sensitive to outliers and can be used even in their presence
+
+7> a, They take the data from lower dimensional space to some higher dimensional
+      space in case the data is not likely to be linearly separable. 
+
+8> a,  These functions gives value of the dot product of pairs of data-points in the
+       desired higher dimensional space without even explicitly converting the whole
+       data in to higher dimensional space.
+
+9> d, It is a model trained using supervised learning. It can be used for classification
+      not for regression.
+
+10> d, All of the above.
+
+11> 

@@ -1,0 +1,23 @@
+Question Number, Correct Option, Answer
+
+1> d, All of the above
+
+2> a, True
+
+3> d, All of the above
+
+4> d, Error
+
+5> c, 3 dimensional
+
+6> d, 1
+
+7> d, ipy
+
+8> b, Value,size
+
+Multipal Correct Option
+
+9> b, c,d
+
+10> b,c 
